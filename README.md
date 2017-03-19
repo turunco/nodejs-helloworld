@@ -1,2 +1,9 @@
 # nodejs-helloworld
-server side Node.js hello world
+node.js hello world
+
+## Execute
+```
+> node main.js
+Server running at http://localhost:8888
+```
+Access [http://localhost:8888/](http://localhost:8888/) by web browser.
